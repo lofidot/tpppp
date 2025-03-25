@@ -1,4 +1,3 @@
-
 // Supabase client initialization
 const supabaseUrl = 'https://nlejaciidjebkufybtpx.supabase.co';
 const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5sZWphY2lpZGplYmt1ZnlidHB4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDI4MDkyMjYsImV4cCI6MjA1ODM4NTIyNn0.xXsukS0EdDRdpy0t4aDIFJJa4nYH4_50ismmHmKwpHk';
